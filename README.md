@@ -1,4 +1,4 @@
-Hi My name is Sam Shulman
+Hi, my name is Sam Shulman
 ============================
 
 Full Stack Web Developer
